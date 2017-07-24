@@ -20,7 +20,7 @@ print(str1[:-1])
 print(str1[::2])
 
 
-print('string are immutable, we can not change the elements')
+print('string are immutable, we can not change the elements using index')
 print(str5 + ' oncatenate me !')
 
 letter = 'z'
